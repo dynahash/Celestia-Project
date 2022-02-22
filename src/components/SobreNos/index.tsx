@@ -1,5 +1,3 @@
-import '../../styles/App.css';
-
 export const SobreNos = () => {
   return (
     <>
