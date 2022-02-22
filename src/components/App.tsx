@@ -1,4 +1,3 @@
-import React from 'react';
 import logo from '../assets/logo.svg';
 import '../styles/App.css';
 
@@ -16,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Olá mundo
         </a>
       </header>
     </div>
