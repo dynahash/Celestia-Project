@@ -1,11 +1,9 @@
 import '../../styles/App.css';
 
-function App() {
+export const SobreNos = () => {
   return (
     <>
-      <p>Rota do app</p>
+      <p>Rota de sobre nos</p>
     </>
   );
 }
-
-export default App;
